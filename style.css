@@ -1,0 +1,191 @@
+.containerr{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    
+}
+.sidebar{
+width: 20%;
+border: 2px solid teal;
+display: flex;
+justify-content: center;
+flex-direction: column;
+color: white;
+background-color: teal;
+}
+.main{
+    width: 80%;
+    border: 2px solid black;
+}
+.david{
+    display: flex;
+    flex-direction: row-reverse;
+
+}
+#Weird{
+width: 110px;
+
+}
+.first{
+   display: flex;
+   flex-direction: row;
+   align-items: center;
+   justify-content: center;
+   gap: 20px;
+   padding: 10px;
+   padding-top: 30px;
+   
+}
+.racsist{
+    width: 1100px;
+    height: 690px;
+}
+.MICHAEL{
+    border: solid black;
+    border-radius: 9px;
+    padding: 5px;
+    box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+    backdrop-filter: blur( 15.5px );
+    -webkit-backdrop-filter: blur( 15.5px );
+    border-radius: 10px;
+    border: 1px solid rgba( 255, 255, 255, 0.18 );
+    width: 300px;
+}
+.JUSTIN{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:space-around;
+    border: 0px;
+    margin-top: 50px;
+    
+}
+.red{
+    background-color: lightsalmon;
+    width:220px;
+    color: darkred;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 5px;
+    border-radius: 9px;
+    box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+backdrop-filter: blur( 15.5px );
+-webkit-backdrop-filter: blur( 15.5px );
+border-radius: 10px;
+border: 1px solid rgba( 255, 255, 255, 0.18 );
+}
+.blue
+{background-color: lightskyblue;
+    width:220;
+color: royalblue;
+display: flex;
+flex-direction: column;
+justify-content: center;
+margin: 5px;
+border-radius: 9px;
+background: lightskyblue;
+box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+backdrop-filter: blur( 15.5px );
+-webkit-backdrop-filter: blur( 15.5px );
+border-radius: 10px;
+border: 1px solid rgba( 255, 255, 255, 0.18 );}
+.green{
+    background-color: lightgreen;
+    color: seagreen;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 5px;    
+    border-radius: 9px;
+    box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+backdrop-filter: blur( 15.5px );
+-webkit-backdrop-filter: blur( 15.5px );
+border-radius: 10px;
+border: 1px solid rgba( 255, 255, 255, 0.18 );
+}
+.yellow{
+    background-color: yellow;
+    color: goldenrod;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 5px;
+    border-radius: 9px;
+    box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+backdrop-filter: blur( 15.5px );
+-webkit-backdrop-filter: blur( 15.5px );
+border-radius: 10px;
+border: 1px solid rgba( 255, 255, 255, 0.18 );
+}
+.sus{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.gray{
+    display: flex;
+    flex-wrap: wrap ;
+    height: 500px;
+    text-align: center;
+    
+}
+.h{
+    text-align: center;
+
+}
+body{
+    background-color: gray;
+}
+.yay{
+    width: 150px;
+}
+nav{
+    border-bottom: 3px solid black;
+}
+.uwu{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   left: 100px;
+}
+.containerr{
+    border: 0px;
+}
+.MICHAELI{
+    border: solid black;
+    border-radius: 9px;
+    padding: 5px;
+    box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+    backdrop-filter: blur( 15.5px );
+    -webkit-backdrop-filter: blur( 15.5px );
+    border-radius: 10px;
+    border: 1px solid rgba( 255, 255, 255, 0.18 );
+    text-align: center;
+    width: 800px}
+
+    #tab{
+margin-left: 100px;
+margin-right: 100px;
+height: 200px;
+
+    }
+    @media screen and  (max-width:480px ) {
+        .sidebar{
+            display: none;
+        }
+        .main{
+            width: 1125px;
+min-height: 2500px;
+
+
+        }
+        .sus{display:flex;
+    flex-wrap: wrap;}
+.grey{
+    display: flex;
+    flex-direction: column;
+}
+    }
+     @media screen and (max-width:780px ) {} 
+        
+   
